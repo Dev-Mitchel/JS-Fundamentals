@@ -1,6 +1,6 @@
 array =[
     "C is fun",
-    "Python is cool ",
+    "Python is cool",
     "JavaScript is amazing"
 ]
 
