@@ -4,9 +4,8 @@ array =[
     "JavaScript is amazing"
 ]
 
-for (let i =0; i < 1; i++) {
-    console.log(array[0])
-     console.log(array[1])
-      console.log(array[2])
+for (let i =0; i < 3; i++) {
+    console.log(array[i])
+     
 }
     
